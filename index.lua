@@ -10,7 +10,7 @@ function copyFile(input, output)
 	end
 	out = io.open(output,FCREATE)
 	size = io.size(inp)
-	io.write(out, io.read(inp, 0, size), size)
+	io.write(out, io.read(inp, size), size)
 	io.close(inp)
 	io.close(out)
 end
