@@ -1,2 +1,4 @@
 # moon-whitelister
-A Lua Whitelister for the PlayStation Vita. Based on Lua Player Plus by @Rinnegatamante
+A Lua Whitelister for the PlayStation TV. Based on Lua Player Plus by @Rinnegatamante
+
+This utility replaces the PSTV's whitelist files with the ones embedded with it, allowing the PS TV to play titles not whitelisted by Sony, like Gravity Rush.
